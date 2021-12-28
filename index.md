@@ -4,7 +4,7 @@
 
 ## Repository of the Framework
 
-https://github.com/xuborx/framework_2.0
+[GitHub](https://github.com/xuborx/framework_2.0 "GitHub")
 
 ## Requirements
 
